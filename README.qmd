@@ -1,0 +1,28 @@
+---
+title: "Inequality Impedes Growth"
+format: html
+---
+
+This repository houses the code to estimate the unequal growth project. Below is a brief structure of the files. Eventually, we will likely want to turn this into an R package called `unequalgrowth`. The data is housed seperately.
+
+
+# Adapting Glewwe 2014
+
+This is the original Glewwe 2014 scripts and adaptations to run a simple modification adding variance and inequality measures to the determinants of growth. 
+
+
+# Cleaning Data 
+
+These the scripts to clean the data used for an expansion of the analysis
+
+
+# Determinants of Growth 
+
+Scripts to estimate impact of determinants on growth 
+
+
+# Forecasting
+
+Given the factors that influence growth, project future growth with these considerations and compare them to projects without considering inequality measures. 
+
+
