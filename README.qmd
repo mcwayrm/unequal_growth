@@ -14,11 +14,17 @@ This is the original Glewwe 2014 scripts and adaptations to run a simple modific
 # Cleaning Data 
 
 These the scripts to clean the data used for an expansion of the analysis
+- Create Inequality Indices: [Code](./commands_inequality.R)
+- Clean GDP Data: [Code]()
+- Clean PISA Data (Education): [Code](./clean_pisa.R)
+- Clean TIMSS Data (Education): [Code](./clean_timss.R)
+- Merge GDP and Education Data: [Code](./merge_education_gdp.R)
 
 
 # Determinants of Growth 
 
 Scripts to estimate impact of determinants on growth 
+- Run basic regressions: [Code](./analysis_deterimants_regressions.R)
 
 
 # Forecasting
